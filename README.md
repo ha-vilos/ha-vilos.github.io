@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html>
   <head>
     <h1>to el baair fatim zahra</h1>
